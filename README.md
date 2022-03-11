@@ -6,7 +6,7 @@ Online Website for courses using ASP.Net Core
 - Database sql server 2019
 - For testing Login & sign up
 
-admin: ali
+Admin: ali
 	ALIali123@
 
 Instuctor: Mahmoud
