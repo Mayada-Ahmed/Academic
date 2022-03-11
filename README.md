@@ -2,7 +2,18 @@
 Online Website for courses using ASP.Net Core
 
 # Notes
-We still working on this site
+- We still working on this site
+Database sql server 2019
+
+admin: ali
+	ALIali123@
+
+Instuctor: Mahmoud
+	Mahmoud12@A
+
+Student: rami
+	ALIali123@
+
 
 # Getting Started
 - Clone the repository using the command git clone `https://github.com/Mayada-Ahmed/Academic.git` and checkout the `main` branch.
