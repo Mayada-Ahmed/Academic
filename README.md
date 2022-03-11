@@ -3,7 +3,8 @@ Online Website for courses using ASP.Net Core
 
 # Notes
 - We still working on this site
-Database sql server 2019
+- Database sql server 2019
+- For testing Login & sign up
 
 admin: ali
 	ALIali123@
